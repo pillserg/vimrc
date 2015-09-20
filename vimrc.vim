@@ -1,5 +1,5 @@
-source plugins.vim
-source general.vim
-source pydoc_conf.vim
-source racer.vim
-source keymap.vim
+source ~/vimrc/plugins.vim
+source ~/vimrc/general.vim
+source ~/vimrc/pydoc_conf.vim
+source ~/vimrc/racer.vim
+source ~/vimrc/keymap.vim
