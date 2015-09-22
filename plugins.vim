@@ -13,11 +13,12 @@ Plug 'mitsuhiko/vim-jinja'
 Plug 'SirVer/ultisnips' | Plug 'honza/vim-snippets'
 Plug 'scrooloose/nerdtree', { 'on':  'NERDTreeToggle' }
 Plug 'tpope/vim-fireplace', { 'for': 'clojure' }
-Plug 'phildawes/racer', {'for': 'rust' }
-Plug 'rust-lang/rust.vim'
+Plug 'phildawes/racer'
 Plug 'davidhalter/jedi-vim'
+Plug 'rust-lang/rust.vim'
 Plug 'nathanaelkane/vim-indent-guides'
 Plug 'sjl/gundo.vim'
 Plug 'kien/ctrlp.vim'
+Plug 'majutsushi/tagbar'
 
 call plug#end()
