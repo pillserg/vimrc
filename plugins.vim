@@ -1,6 +1,7 @@
 call plug#begin()
 
 Plug 'tpope/vim-sensible'
+Plug 'scrooloose/syntastic'
 Plug 'junegunn/seoul256.vim'
 Plug 'junegunn/vim-easy-align'
 Plug 'jewes/Conque-Shell'
@@ -13,9 +14,10 @@ Plug 'SirVer/ultisnips' | Plug 'honza/vim-snippets'
 Plug 'scrooloose/nerdtree', { 'on':  'NERDTreeToggle' }
 Plug 'tpope/vim-fireplace', { 'for': 'clojure' }
 Plug 'phildawes/racer', {'for': 'rust' }
-Plug 'wting/rust.vim'
+Plug 'rust-lang/rust.vim'
 Plug 'davidhalter/jedi-vim'
 Plug 'nathanaelkane/vim-indent-guides'
 Plug 'sjl/gundo.vim'
+Plug 'kien/ctrlp.vim'
 
 call plug#end()

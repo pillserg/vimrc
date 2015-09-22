@@ -9,6 +9,7 @@ set shiftwidth=4
 set smarttab
 set hidden
 set hlsearch
+set nowrap
 
 colo seoul256
 " настройки Vim-Airline
