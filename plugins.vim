@@ -20,5 +20,8 @@ Plug 'nathanaelkane/vim-indent-guides'
 Plug 'sjl/gundo.vim'
 Plug 'kien/ctrlp.vim'
 Plug 'majutsushi/tagbar'
+Plug 'vim-scripts/vim-auto-save'
+Plug 'jistr/vim-nerdtree-tabs'
+Plug 'cespare/vim-toml'
 
 call plug#end()
