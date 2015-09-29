@@ -13,10 +13,10 @@ set hidden
 set hlsearch
 set nowrap
 set guicursor+=n-v-c:blinkon0
+set wildignore+=*.pyc
 set go-=T
 syntax on
 
 colo seoul256
 " настройки Vim-Airline
 let g:airline_theme='base16'
-
