@@ -17,5 +17,5 @@ Plug 'wting/rust.vim'
 Plug 'davidhalter/jedi-vim'
 Plug 'nathanaelkane/vim-indent-guides'
 Plug 'sjl/gundo.vim'
-
+Plug 'evanmiller/nginx-vim-syntax'
 call plug#end()
