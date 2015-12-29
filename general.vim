@@ -20,3 +20,5 @@ syntax on
 colo seoul256
 " настройки Vim-Airline
 let g:airline_theme='base16'
+
+set tags=.tags

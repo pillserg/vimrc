@@ -14,3 +14,7 @@ nnoremap <CR> :noh<CR><CR>
 nmap <F8> :TagbarToggle<CR>
 let mapleader = "\<Space>"
 nnoremap <leader>. :CtrlPTag<cr>
+
+set mouse=a
+map <ScrollWheelUp> <C-Y>
+map <ScrollWheelDown> <C-E>
