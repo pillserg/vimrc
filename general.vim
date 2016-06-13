@@ -21,3 +21,5 @@ colo seoul256
 
 set tags=.tags
 set completeopt-=preview
+set visualbell
+set t_vb=
