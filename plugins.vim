@@ -24,4 +24,5 @@ Plug 'jistr/vim-nerdtree-tabs'
 Plug 'cespare/vim-toml'
 Plug 'mjbrownie/browser.vim'
 Plug 'klen/python-mode'
+Plug 'scrooloose/nerdcommenter'
 call plug#end()
