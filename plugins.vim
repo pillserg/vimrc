@@ -11,9 +11,9 @@ Plug 'mitsuhiko/vim-jinja'
 Plug 'SirVer/ultisnips' | Plug 'honza/vim-snippets'
 Plug 'scrooloose/nerdtree', { 'on':  'NERDTreeToggle' }
 Plug 'tpope/vim-fireplace', { 'for': 'clojure' }
-Plug 'phildawes/racer'
 Plug 'davidhalter/jedi-vim'
 Plug 'rust-lang/rust.vim'
+Plug 'racer-rust/vim-racer'
 Plug 'nathanaelkane/vim-indent-guides'
 Plug 'sjl/gundo.vim'
 Plug 'evanmiller/nginx-vim-syntax'
@@ -24,4 +24,5 @@ Plug 'jistr/vim-nerdtree-tabs'
 Plug 'cespare/vim-toml'
 Plug 'mjbrownie/browser.vim'
 Plug 'klen/python-mode'
+Plug 'scrooloose/nerdcommenter'
 call plug#end()

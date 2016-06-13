@@ -1,4 +1,5 @@
-let g:racer_cmd = "/home/s-piliavskiii/soft/racer/target/release/racer"
+"let g:racer_cmd = "/home/s-piliavskiii/soft/racer/target/release/racer"
+let g:racer_cmd = "/home/pill/.cargo/bin/racer"
 let $RUST_SRC_PATH="/usr/local/src/rust/src/"
 
 " add rust tagbar conf here

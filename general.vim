@@ -20,3 +20,4 @@ syntax on
 colo seoul256
 
 set tags=.tags
+set completeopt-=preview
