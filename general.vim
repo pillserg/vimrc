@@ -20,3 +20,6 @@ syntax on
 colo seoul256
 
 set tags=.tags
+
+set visualbell
+set t_vb=

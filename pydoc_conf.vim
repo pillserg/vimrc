@@ -34,3 +34,5 @@ let g:pymode_folding = 0
 
 " возможность запускать код
 let g:pymode_run = 0
+
+set completeopt-=preview
