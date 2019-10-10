@@ -1,0 +1,11 @@
+set clipboard+=unnamedplus
+set number relativenumber
+set nu rnu
+set incsearch
+set surround
+nnoremap / :action Find<cr>
+set hlsearch
+set scrolloff=3
+set ignorecase smartcase
+set showmode
+set history=1000
